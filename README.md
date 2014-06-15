@@ -5,7 +5,7 @@
 ###TesstLocal22
 uuu
 
-*first
-*second
+* first
+* second
 
 Bla text bla
